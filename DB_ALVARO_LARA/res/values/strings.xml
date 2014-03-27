@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BQ_Alvaro_Lara</string>
+    <string name="submenu1">Order by Name</string>
+    <string name="submenu2">Order by Date</string>
+</resources>
